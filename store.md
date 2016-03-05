@@ -27,6 +27,7 @@ const counter = (state = 0, action) => {
 }
 ```
 
+**Subscribing and Adding Event**
 ```javascript
 const { createStore } = Redux;
 const store = createStore(counter);
