@@ -35,6 +35,7 @@ Having a SPA:
 - Much easier to test
 - Very easy to build up through composition
 - Widely used on the server side today
+- **Reducers are synchronous**
 
 
 **Getting more stateless with Redux**
