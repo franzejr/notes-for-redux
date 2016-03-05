@@ -13,7 +13,7 @@ To create it, pass your root reducing function to createStore.
 
 ## Example
 
-Our Reducer Function:
+**Our Reducer Function:**
 ```javascript
 const counter = (state = 0, action) => {
   switch(action.type) {
