@@ -4,3 +4,4 @@ Redux attempts to make state mutations predictable by imposing certain restricti
 
 - [Pure / Impure Functions](pure_impure_function.md) 
 - [The Reducer Function](reducer_function.md)
+- [Store](store.md)
