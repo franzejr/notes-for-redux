@@ -30,7 +30,8 @@ Main Ideas:
 We can say, Redux is divided in three parts:
  
 Model | VIEW | UPDATE from Elm Language.
-STATE --> VIEW --> UPDATE
+
+**STATE --> VIEW --> UPDATE**
 
 ## Action
 
@@ -84,7 +85,6 @@ store.subscribe(() =>
   let currentState = store.getState();
 );
 ```
-
 
 ## Middleware
 
