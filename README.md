@@ -14,7 +14,7 @@ Redux attempts to make state mutations predictable by imposing certain restricti
 - Everythingi s connected to everything else
 - Changing anything breaks others parts
 
-Best soltuions as of now
+**Best soltuions so far:**
 - Component-based UI
 - A "stateless" approach deeper in the stack
 
