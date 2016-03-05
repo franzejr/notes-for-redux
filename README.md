@@ -10,6 +10,8 @@ Redux attempts to make state mutations predictable by imposing certain restricti
 
 ## Motivation
 
+Having a SPA:
+
 - Lots of parts
 - Everythingi s connected to everything else
 - Changing anything breaks others parts
